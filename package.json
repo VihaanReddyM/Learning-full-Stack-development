@@ -1,0 +1,16 @@
+{
+  "name": "learning-full-stack-development",
+  "version": "1.0.0",
+  "description": "I Have for motivation for this sooo, let's do this :) (By let`s i mean only me, i don't have friends)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server src -a localhost -p 8080 -o index.html"
+  },
+  "keywords": [],
+  "author": "VihaanReddyM",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
